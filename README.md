@@ -6,7 +6,7 @@ There is a necessary component.
 Data of goals(position.x position.y orientation.z orientation.w).
 Separator is a space.
 
-Try roslaunch turtlebot3_navigation and rosrun dijkstra
+If you finish making a file, Try roslaunch turtlebot3_navigation and rosrun dijkstra.
 
 It needs a numbers of node that user entered by keyboard.
 Because dynamic allocation is done before reading the file.
